@@ -25,7 +25,7 @@ Right-click on the project -> Properties -> Advanced -> Character Set -> Select 
 ## 2. Linker Configuration
 Right-click on the project -> Properties -> Expand Linker -> Input under Linker -> Additional Dependencies -> Edit -> Add winmm.lib -> OK
 
-# ------------------------------------------------------------------------------------------------------------------------------------------------------------
+# ----------------------------
 
 # 游戏简介
 
